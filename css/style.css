@@ -15,9 +15,9 @@ body {
 
 .my-pic{
   
-  width: 295px;
+  width: 305px;
   height: 325px;
-  border-radius: 120px;
+  border-radius: 140px;
   margin-bottom: 30px;
  
 }
@@ -93,9 +93,9 @@ margin-bottom: 5px;
 }
 
 .first-name {
-    margin-top: 205px;
+    margin-top: 215px;
     color: #fff;
-    font-size: 250%;
+    font-size: 240%;
     letter-spacing: 1px;
     text-align: center;
 }
